@@ -1,0 +1,1 @@
+add_subdirectory(my_math_lib)
