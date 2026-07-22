@@ -1,1 +1,2 @@
+add_subdirectory(json)
 add_subdirectory(my_math_lib)

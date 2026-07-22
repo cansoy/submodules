@@ -25,4 +25,5 @@ target_link_libraries(
     PRIVATE
     my_math_lib
     math_utils_lib
+    nlohmann_json
 )

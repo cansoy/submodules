@@ -1,3 +1,6 @@
 [submodule "third_party/my_math_lib"]
 	path = third_party/my_math_lib
 	url = https://github.com/cansoy/my_math_lib.git
+[submodule "third_party/json"]
+	path = third_party/json
+	url = https://github.com/nlohmann/json.git
